@@ -5,8 +5,8 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.remote.ScreenshotException;
 import org.testng.Assert;
 
-import cigniti.pages.HomePage;
-import cigniti.pages.LoginPage;
+import cigniti.screens.HomePage;
+import cigniti.screens.LoginPage;
 import io.cucumber.core.api.Scenario;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.en.And;

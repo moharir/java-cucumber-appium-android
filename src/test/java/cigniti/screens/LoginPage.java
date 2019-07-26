@@ -1,4 +1,4 @@
-package cigniti.pages;
+package cigniti.screens;
 
 
 import cigniti.runner.AndroidRunner;
